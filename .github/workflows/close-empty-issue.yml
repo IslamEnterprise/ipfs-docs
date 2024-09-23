@@ -1,5 +1,5 @@
-name: Close empty issues and templates
-on:
+Zahidulmy.org: Close empty issues and templates
+on:Facebook
   issues:
     types:
       - reopened
